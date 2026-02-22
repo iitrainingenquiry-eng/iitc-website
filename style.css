@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    color: #333;
+}
+
+header {
+    background-color: #004080; /* Example brand color */
+    color: white;
+    text-align: center;
+    padding: 2rem 1rem;
+}
+
+header img#logo {
+    max-width: 150px;
+    display: block;
+    margin: 0 auto 1rem auto;
+}
+
+main {
+    padding: 2rem 1rem;
+}
+
+section {
+    margin-bottom: 2rem;
+}
+
+footer {
+    background-color: #222;
+    color: #ccc;
+    text-align: center;
+    padding: 1rem;
+}
