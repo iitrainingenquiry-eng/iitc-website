@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: #004080; /* Example brand color */
+    background-color: #ffffff; /* Example brand color */
     color: white;
     text-align: center;
     padding: 2rem 1rem;
@@ -32,4 +32,5 @@ footer {
     color: #ccc;
     text-align: center;
     padding: 1rem;
+
 }
